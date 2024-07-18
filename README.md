@@ -2,7 +2,7 @@
 `Don't Steal My Software License`
 
 > Version 1.3, July 2024
-> Copyright (C) 2021 UnitedCatdom
+> Copyright (C) 2024 UnitedCatdom
 
 Everyone can see the code if it's open-source, edit it, but can't distribute edited version.
 Perfect if you want to create Open-Source projects, and don't let others re-distribute their edits without your control.
